@@ -1,0 +1,19 @@
+### Abfrage aller Kategorien (Sortierung: Namen aufsteigend)
+
+GET ...
+
+### Abfrage aller Filme einer Kategorie (z.B.: Action) (Sortierung: Name aufsteigend)
+
+GET ...
+
+
+### Abfrage aller Filme inkl. Kategorie (Sortierung: Erscheinungsjahr absteigend, danach nach Filmtitel aufsteigend)
+
+GET ...
+
+### Abfrage aller Kategorien inkl. durchschnittlicher Filmdauer, Gesamtdauer aller Filme und die Anzahl der Filme.
+### Sortiert nach Anzahl der Film absteigend
+
+GET ...
+
+
